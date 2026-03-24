@@ -1,2 +1,2 @@
-# NexoScienceSearch-NSS
-buscador de articulos cientificos
+## 📜 Licencia
+Este software es propiedad de THE NEXO TEAM. Todos los derechos reservados.

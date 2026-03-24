@@ -1,0 +1,18 @@
+Copyright (c) 2026 THE NEXO TEAM
+
+Todos los derechos reservados.
+
+Este software es propiedad exclusiva de THE NEXO TEAM.
+
+Se concede permiso para usar este software únicamente con fines personales y educativos.
+
+Queda estrictamente prohibido:
+- Modificar, descompilar o realizar ingeniería inversa del software
+- Redistribuir, sublicenciar o compartir el software por cualquier medio
+- Utilizar el software con fines comerciales
+- Vender, alquilar o licenciar el software a terceros
+
+Este software se proporciona "tal cual", sin garantías de ningún tipo. 
+THE NEXO TEAM no se hace responsable de daños derivados del uso del software.
+
+El incumplimiento de estos términos puede resultar en acciones legales.
