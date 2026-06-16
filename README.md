@@ -1,46 +1,49 @@
 # 📚 NexoScienceSearch - NSS
 
-**Buscador inteligente de artículos científicos**  
-Desarrollado por **THE NEXO TEAM S.A. de C.D**
+**Buscador de Artículos Científicos**
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)
+> Desarrollado por **THE NEXO TEAM S.A. de C.D**
 
-## 📖 Descripción
+## 🚀 Descripción
 
-NexoScienceSearch es una herramienta desarrollada para buscar, filtrar y acceder fácilmente a artículos científicos. Cuenta con una interfaz ejecutable lista para usar en Windows sin necesidad de instalación.
+NexoScienceSearch es una aplicación diseñada para buscar y explorar artículos científicos de manera rápida y sencilla. Cuenta con una versión ejecutable lista para usar en Windows.
 
 ## ✨ Características
 
-- Búsqueda rápida de artículos científicos
-- Interfaz sencilla y amigable
-- Ejecutable independiente (`.exe`)
+- Interfaz simple y fácil de usar
+- Búsqueda de artículos científicos
+- Ejecutable independiente (`.exe`) - No requiere instalación
 - Desarrollado en Python
-- Listo para uso inmediato
 
 ## 🚀 Cómo usar
 
-1. Descarga el archivo `nexo_app.exe` desde la carpeta del repositorio
+1. Descarga el archivo `nexo_app.exe`
 2. Ejecuta el archivo directamente (doble clic)
-3. Realiza tus búsquedas de artículos científicos
+3. Realiza tus búsquedas
 
-> No requiere Python ni ninguna dependencia instalada.
+> **Nota**: El ejecutable es autónomo y no requiere Python instalado.
 
 ## 📦 Archivos del proyecto
 
-- `nexo_app.exe` → Aplicación lista para ejecutar
-- `codigo.py` → Código fuente Python
-- `licencia.txt` → Información de licencia
+| Archivo          | Descripción                          |
+|------------------|---------------------------------------|
+| `nexo_app.exe`   | Aplicación lista para ejecutar     |
+| `codigo.py`      | Código fuente en Python            |
+| `licencia.txt`   | Información de licencia            |
 
-## 📜 Licencia
+## 📈 Roadmap / Mejoras Futuras
 
-Todos los derechos reservados © THE NEXO TEAM S.A. de C.D
+- [ ] Integración con APIs reales de artículos científicos
+- [ ] Interfaz más avanzada
+- [ ] Exportar resultados
+- [ ] Búsqueda por filtros avanzados (año, revista, etc.)
 
 ## 👥 Creado por
 
-**THE NEXO TEAM**  
+**THE NEXO TEAM S.A. de C.D**  
 Creadores de innovaciones tecnológicas  
-Chimalhuacán, México • 2026
+Chimalhuacán, México
 
 ---
 
-⭐ ¡Si te resulta útil, dale una estrella al repositorio!
+*Proyecto en desarrollo.*
