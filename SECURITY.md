@@ -1,2 +1,1 @@
-este programa no ofrece ningun servicio o declaracion en contra de hackeos
-es responsbilidad total del usuario usar el software como es debido
+en caso de errores o cualquier falla dentro del sistema por favor comunicarse al correo que está dentro del archivo readme.md nuestro sistema depende totalmente de redalic y Google académico por lo tanto en caso de que haya fallas en estos sitios nuestro sistema se verá ligeramente afectado ya que nuestra nube nexo cloud está en mantenimiento para poder ofrecer una experiencia totalmente nueva y renovada nuestro sistemas están actualizados sin embargo nos vemos obligados a confirmarles que somos totalmente gratuitos por lo tanto cualquier instancia asegurada con la seguridad del usuario no depende de nosotros
